@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>ILAW Tailored Lesson Plan - Basic Hand Stitches</title>
+<style>
+body { font-family: "Times New Roman", serif; font-size: 11pt; line-height: 1.35; margin: 1.5cm; }
+h1 { font-size: 13pt; text-align: center; margin: 0 0 4pt 0; }
+h2 { font-size: 11pt; text-align: center; margin: 0 0 10pt 0; }
+h3 { font-size: 11pt; margin: 10pt 0 4pt 0; text-transform: uppercase; text-align: center; }
+table { width: 100%; border-collapse: collapse; }
+td { border: 1px solid #000; padding: 5pt 6pt; vertical-align: top; font-size: 10.5pt; }
+td.label { width: 22%; font-weight: bold; }
+td.gap { width: 4%; }
+td.head { font-weight: bold; text-align: center; text-transform: uppercase; }
+p { margin: 0 0 5pt 0; }
+ol, ul { margin: 0 0 5pt 18pt; padding: 0; }
+li { margin-bottom: 2pt; }
+.blank { border-bottom: 1px solid #000; display: inline-block; min-width: 220px; }
+.sig { height: 28pt; }
+</style>
+</head>
+<body>
+
+<h1>Bachelor of Technology and Livelihood Education</h1>
+<h2>ILAW TAILORED LESSON PLAN<br>A.Y. 2026-2027</h2>
+
+<table>
+<tr>
+  <td class="label">Lesson Title</td>
+  <td colspan="2">Basic Hand Stitches: Running Stitch, Backstitch, and Blanket Stitch</td>
+</tr>
+<tr>
+  <td class="label">Learning Area/s</td>
+  <td colspan="2">Technology and Livelihood Education (Home Economics)</td>
+</tr>
+<tr>
+  <td class="label">Name of Teacher/s</td>
+  <td colspan="2"><span class="blank">&nbsp;</span></td>
+</tr>
+<tr>
+  <td class="label">Grade Level &amp; Section</td>
+  <td colspan="2">Grade 7 &ndash; Technology and Livelihood Education</td>
+</tr>
+<tr>
+  <td class="label">No. of Session</td>
+  <td colspan="2">1 Session</td>
+</tr>
+<tr>
+  <td class="label">References:</td>
+  <td colspan="2">Department of Education. <i>TLE 7/8 &ndash; Home Economics: Handicraft and Dressmaking Learning Module, Quarter 1 &ndash; Basic Hand Stitches</i> [Learning module]. DepEd. K to 12 Basic Education Curriculum Guide &ndash; TLE Home Economics (Grade 7/8).</td>
+</tr>
+<tr>
+  <td class="label">Learning Resources:</td>
+  <td colspan="2">
+    <p>Needles (assorted sizes), sewing thread in contrasting color, fabric swatches (10 x 15 cm), pair of scissors, thimble, pins, ruler, tailor's chalk, printed chart of the three hand stitches, manila paper and marker, sample stitched output for demonstration</p>
+    <p><b>Emergency/Alternative Resources:</b> If sewing materials are insufficient, learners first practice on bond paper with punched holes and yarn or thick thread, following the same stitch paths, before working on cloth.</p>
+  </td>
+</tr>
+<tr>
+  <td class="label">Declaration of AI Use:</td>
+  <td colspan="2">(such as Honer AI) were utilized to help structure instructional content, ensure pedagogical alignment, and format this lesson plan according to the official institutional template.</td>
+</tr>
+<tr>
+  <td class="label">INTENTION</td>
+  <td colspan="2">Meaningful learning experiences are anchored in how we frame them. Start with deciding what you want learners to master by the end of the lesson &ndash; keep it clear and simple. Remember: Understanding your learners' evolving context and designing around it helps ensure that lessons connect with and are relevant to them.</td>
+</tr>
+<tr>
+  <td class="head" colspan="3">Learning Competency And Curriculum Standards</td>
+</tr>
+<tr>
+  <td colspan="3">
+    <p><b>Content Standard:</b><br>The learner demonstrates understanding of the basic hand stitches, their characteristics, and their proper uses in constructing, repairing, and finishing household garments and articles.</p>
+    <p><b>Performance Standard:</b><br>The learner independently works a sample of three basic hand stitches on cloth with even spacing and secure fastening, and explains the use of each stitch.</p>
+    <p><b>Learning Competency:</b><br>Perform basic hand stitches following the correct procedure, spacing, and safety practices.</p>
+    <p><b>Specific Learning Competencies:</b></p>
+    <ol>
+      <li>Identify the three basic hand stitches and their uses</li>
+      <li>Demonstrate the correct steps in working each hand stitch</li>
+      <li>Evaluate the quality of a stitched sample using given criteria</li>
+    </ol>
+    <p><b>Code:</b> TLE_HECK7/8HS-0 <i>(verify the exact code against your Curriculum Guide before submission)</i></p>
+  </td>
+</tr>
+<tr>
+  <td class="head" colspan="3">Learning Objectives</td>
+</tr>
+<tr>
+  <td colspan="3">
+    <p><b>Cognitive:</b> Identify the three basic hand stitches and their uses; describe the correct procedure for working each stitch; state at least three safety practices in hand sewing</p>
+    <p><b>Psychomotor:</b> Work a sample of the running stitch, backstitch, and blanket stitch on cloth with even spacing, correct tension, and secure fastening</p>
+    <p><b>Affective:</b> Show patience and neatness in doing handwork; demonstrate care and safety in handling sewing tools; appreciate hand sewing as a practical home and livelihood skill</p>
+  </td>
+</tr>
+<tr>
+  <td class="head" colspan="3">Learner Context</td>
+</tr>
+<tr>
+  <td colspan="3">Students have seen hand sewing done at home but most have never been taught the correct steps; they close tears by habit, often with uneven or unsecured stitches. Several learners do not own a sewing kit, so materials are shared in groups of four and the lesson uses a paper-and-yarn practice stage before cloth work. Fine motor control varies widely across the class, so a printed step chart, teacher demonstration, and peer coaching are used to keep everyone moving together. Because needles, pins, and scissors are involved, close supervision and a short safety briefing are built into the session.</td>
+</tr>
+<tr>
+  <td class="label">LEARNING EXPERIENCE</td>
+  <td colspan="2">A learning experience is like a thoughtfully designed journey. Each activity and interaction builds towards meaningful understanding and growth. Identify activities and interactions to help learners gain knowledge, skills, or understanding in a purposeful way.</td>
+</tr>
+<tr>
+  <td class="head" colspan="3">Pre-Lesson</td>
+</tr>
+<tr>
+  <td colspan="3">
+    <p><b>OPENING CLASS PRAYER:</b><br>Led by a designated student volunteer.</p>
+    <p><b>CLASSROOM MANAGEMENT</b><br><b>Attendance:</b> Roll call via seating layout check.<br><b>Classroom Rules:</b></p>
+    <ul>
+      <li>A. Handle needles, pins, and scissors with care; never place pins or needles in the mouth, and never pass scissors blade-first.</li>
+      <li>B. Keep the work area clean and free from loose thread and cloth scraps at all times.</li>
+      <li>C. Raise your hand before speaking, ask permission before leaving your seat, and submit your output within the given time.</li>
+    </ul>
+    <p><b>Review of Previous Lesson</b><br>Ask learners: Last meeting we discussed the sewing tools and materials and their proper uses. Why must we use the right tool for the right job, and what can happen if we use the wrong one?</p>
+    <p><b>QUESTION FOR ACTIVATING PRIOR KNOWLEDGE</b><br>Ask learners: Have you ever sewn back a torn hem or a torn pocket at home? What did you use to close the tear, and did the stitches hold after washing?</p>
+    <p><b>MOTIVATION/DRILL</b><br><b>Activity Name:</b> Spot the Stitch<br><b>Type:</b> sample analysis<br><b>Instructions:</b> Flash three stitched fabric samples on the screen or hold them up &ndash; one with fast running stitches, one with a strong reinforced stitch, and one with a finished decorative edge. Students analyze and guess which sample is strongest, which is fastest to sew, and which one finishes an edge.<br><b>Questions:</b> Which sample will survive washing best? Which one looks like it was done fastest? Which one would you use on the edge of a blanket? Why can't one stitch do every job?<br><b>Key Answers:</b> The reinforced stitch (backstitch) is the strongest for seams and repairs; the running stitch is the fastest and is used for gathering and basting; the looped stitch (blanket stitch) is used to finish and reinforce edges.</p>
+    <p><b>UNLOCKING DIFFICULTIES</b><br>Clarify the terms:</p>
+    <ul>
+      <li><b>Stitch:</b> A single complete movement of the needle and thread through the fabric.</li>
+      <li><b>Running stitch:</b> An even, up-and-down stitch used for basting, gathering, and simple seams.</li>
+      <li><b>Backstitch:</b> A stitch worked back over itself, producing a strong, unbroken line for seams and repairs.</li>
+      <li><b>Blanket stitch:</b> A looped stitch worked along a raw edge to finish and strengthen it.</li>
+      <li><b>Evenness/spacing:</b> Keeping the distance between stitches and the distance from the edge identical throughout.</li>
+      <li><b>Fastening off:</b> Securing the thread at the end of a stitched line so it does not unravel.</li>
+      <li><b>Thimble:</b> A small cap worn on the finger to push the needle safely through thick fabric.</li>
+    </ul>
+  </td>
+</tr>
+<tr>
+  <td class="head" colspan="3">Flow</td>
+</tr>
+<tr>
+  <td colspan="3">
+    <p><b>PRESENTATION OF THE TOPIC</b><br>Introduce the topic "Basic Hand Stitches" and explain that hand stitching is the foundation of garment construction, repair, and handicraft production, and that it is a real income-earning skill used by dressmakers, tailors, and home-based craft makers.</p>
+    <p><b>INTRODUCTION OF OBJECTIVES</b><br>By the end of the session, learners should be able to:</p>
+    <ol style="list-style-type: lower-alpha;">
+      <li>name the three basic hand stitches, tell which job each one is for, and say why the backstitch is the strongest;</li>
+      <li>work one row of each stitch on cloth with even spacing, then label and explain each row;</li>
+      <li>show patience, neatness, and safe handling of sewing tools while working.</li>
+    </ol>
+    <p><b>LEARNING ACTIVITY FOR CONCEPT BUILDING OR CONSTRUCTION</b><br><b>Student-Centered Discussion:</b> Learners explain why the backstitch holds better than the running stitch, and share what kind of household items each stitch would be best for.</p>
+    <p><b>Guided Activity:</b> The teacher posts a step chart for each stitch on the board while learners copy the numbered steps into their notebooks, then works one row of each stitch on a large fabric swatch as the class follows along with their fingers before threading their own needles.</p>
+    <p>Guide the class through the questions:</p>
+    <ol>
+      <li>Why is the running stitch fast but weak when used alone on a seam?</li>
+      <li>What makes the backstitch stronger than the running stitch?</li>
+      <li>Why does the blanket stitch need a loop before the needle is pulled through?</li>
+      <li>Why does even spacing matter, and how do you check it?</li>
+    </ol>
+    <p><b>Skilled Demonstration:</b> The teacher works all three stitches slowly on the swatch, naming each movement &ndash; insert the needle, pull the thread, keep the spacing, fasten off at the end &ndash; while explaining the reason for each step and showing what the work looks like when the tension is too tight or too loose. Learners label their own step chart as the teacher works.</p>
+    <p><b>LEARNING ACTIVITY FOR BROADENING OF CONCEPT</b><br><b>Application:</b> Stitch Sample Card<br><b>Type:</b> Individual written and practical output<br><b>Instructions:</b> On a 10 x 15 cm cloth swatch divided into three horizontal sections, work one row of running stitch, backstitch, and blanket stitch with five stitches each. Label every section and write one sentence telling where that stitch is used.</p>
+    <p><b>Process:</b></p>
+    <ul>
+      <li>Mark the three sections and the stitching line about one inch from the fabric edge.</li>
+      <li>Thread the needle and knot the end securely.</li>
+      <li>Work the running stitch first: even stitches in and out, then fasten off.</li>
+      <li>Work the backstitch second: one stitch forward, one back into the previous hole, then fasten off.</li>
+      <li>Work the blanket stitch last: hold the thread under the needle to form the loop, then fasten off.</li>
+      <li>Label the sections and write the one-sentence use of each stitch.</li>
+      <li>Submit for individual scoring.</li>
+    </ul>
+    <p><b>Rubrics:</b></p>
+    <ul>
+      <li>Correct procedure and stitch formation (40%)</li>
+      <li>Evenness of spacing and correct thread tension (25%)</li>
+      <li>Completeness of all three rows and correct labeling (20%)</li>
+      <li>Safety, cleanliness, and neatness of output (15%) &ndash; <b>Total: 100%</b></li>
+    </ul>
+    <p><b>Rate Output:</b> Teacher observation during the practical work, rubric scoring of the sample card, and spot-checking of each learner's stitched rows.</p>
+    <p><b>GENERALIZATION</b><br>Ask learners: "Why do we need to learn more than one kind of stitch?"<br><b>Teacher synthesis:</b> "Running stitch is fast, backstitch is strong, and blanket stitch finishes an edge. The right stitch for the right job is what makes a project last &ndash; and that is true of clothes, curtains, and bags alike."</p>
+  </td>
+</tr>
+<tr>
+  <td class="head" colspan="3">Opportunities for Integration</td>
+</tr>
+<tr>
+  <td colspan="3">
+    <p><b>INTEGRATION</b></p>
+    <ul>
+      <li><b>Values Education (ESP):</b> Patience, diligence, and responsibility for one's own belongings.</li>
+      <li><b>English:</b> Sequencing words and procedure writing when explaining the steps of each stitch.</li>
+      <li><b>Mathematics:</b> Measuring even spacing in centimeters and keeping distances consistent.</li>
+      <li><b>Science (Health):</b> Hygiene and safety in handling needles, pins, and shared sewing materials.</li>
+      <li><b>Entrepreneurship:</b> Hand sewing as a home-based livelihood and a path to income from repair and handicraft work.</li>
+    </ul>
+  </td>
+</tr>
+<tr>
+  <td class="label">ASSESSMENT</td>
+  <td colspan="2">Assessments reveal what learners have gained and what they still need help with. These are helpful in providing you with information to guide your future instruction.</td>
+</tr>
+<tr>
+  <td class="head" colspan="3">Formative Assessment</td>
+</tr>
+<tr>
+  <td colspan="3">
+    <p><b>EVALUATION</b><br><b>Type:</b> Identification Test with Performance Checklist<br><b>Instructions:</b> Read each item carefully. Identify what is being described and write your answer on a 1/4 sheet of paper. Then submit your stitch sample card for rubric scoring.</p>
+    <ol>
+      <li>What stitch is worked back over itself to form a strong, unbroken line?</li>
+      <li>What stitch is used to finish and strengthen a raw edge with a loop?</li>
+      <li>What do you call the step of securing the thread at the end of a stitched line?</li>
+    </ol>
+    <p><b>Key Answers:</b> 1. (Backstitch) &nbsp; 2. (Blanket stitch) &nbsp; 3. (Fastening off)</p>
+    <p><b>EXIT TICKET:</b> Write on a sticky note and submit before leaving: "The stitch I will use to repair my torn ______ is ______ because ______."</p>
+  </td>
+</tr>
+<tr>
+  <td class="label">WAYS FORWARD</td>
+  <td colspan="2">Meaningful learning can also happen beyond the classroom &ndash; for both the learners and the teacher. Observe and reflect on what happened today.</td>
+</tr>
+<tr>
+  <td class="head" colspan="3">Extended Learning Opportunities</td>
+</tr>
+<tr>
+  <td colspan="3">
+    <p><b>AGREEMENT:</b><br>Find one garment or household item at home with a torn or loose part. Identify which of the three stitches would repair it best and write two sentences explaining why. Have a parent or guardian sign a brief verification note.</p>
+    <p><b>REMINDERS FOR NEXT CLASS:</b><br>Bring your needle, thread, and one cloth swatch. Next topic &ndash; Types of Seams and Basic Machine Stitching.</p>
+    <p><b>END OF CLASS PRAYER:</b> Led by the class president.</p>
+  </td>
+</tr>
+<tr>
+  <td class="head" colspan="3">Reflections</td>
+</tr>
+<tr>
+  <td colspan="3">
+    <p><b>Teacher Reflection:</b></p>
+    <p>A. No. of learners who earned 80% in the evaluation:<br><br>
+       B. No. of learners who require additional activities for remediation:<br><br>
+       C. Did the remedial lessons work? No. of learners who have caught up with the lesson:<br><br>
+       D. What difficulties did I encounter which my principal or supervisor can help me solve?<br><br>
+       E. What innovation or localized materials did I use/discover which I wish to share with other teachers?</p>
+  </td>
+</tr>
+<tr>
+  <td class="sig"><b>Prepared By:</b><br><br><br><span class="blank">&nbsp;</span><br>BTLED (3E)</td>
+  <td class="gap"></td>
+  <td class="sig"><b>Checked By:</b><br><br><br>GLEXY MAE DELOS SANTOS-CARAMBA, LPT<br>Instructor/Mentor</td>
+</tr>
+</table>
+
+</body>
+</html>
